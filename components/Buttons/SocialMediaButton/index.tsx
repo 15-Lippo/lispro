@@ -1,3 +1,4 @@
+
 import {
   Box,
   chakra,
@@ -65,7 +66,7 @@ export default function SmallCentered() {
           <Stack direction="row" spacing={6}>
             <SocialButton
               label="Twitter"
-              href="https://twitter.com/SabeloMkhwanaz"
+              href="https://mobile.twitter.com/lisprocoin"
             >
               <FaTwitter />
             </SocialButton>
@@ -74,7 +75,7 @@ export default function SmallCentered() {
             </SocialButton>
             <SocialButton
               label="Github"
-              href="https://github.com/SabeloMkhwanzi/Multify-Analytics-Dashboard"
+              href="https://github.com/15-Lippo/lis"
             >
               <FaGithub />
             </SocialButton>
@@ -84,3 +85,4 @@ export default function SmallCentered() {
     </Box>
   );
 }
+  
