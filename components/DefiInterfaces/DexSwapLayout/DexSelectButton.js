@@ -156,57 +156,7 @@ export default function SelectButton({ getChain }) {
                   value="pancakeswap"
                   borderColor="gray.600"
                 >
-                  Pancakeswap
-                </Radio>
-                <Radio
-                  size="sm"
-                  colorScheme="red"
-                  name="dexName"
-                  value="quickswap"
-                  borderColor="gray.600"
-                >
-                  Quickswap
-                </Radio>
-                <Radio
-                  size="sm"
-                  name="dexName"
-                  colorScheme="green"
-                  value="pangolin"
-                  borderColor="gray.600"
-                >
-                  Pangolin
-                </Radio>
-                <Radio
-                  size="sm"
-                  colorScheme="orange"
-                  name="dexName"
-                  value="spiritswap"
-                  borderColor="gray.600"
-                >
-                  Spiritswap
-                </Radio>
-                <Radio
-                  size="sm"
-                  colorScheme="red"
-                  name="dexName"
-                  value="spookyswap"
-                  borderColor="gray.600"
-                >
-                  Spookyswap
-                </Radio>
-                <Radio
-                  size="sm"
-                  name="dexName"
-                  colorScheme="green"
-                  value="traderjoe"
-                  borderColor="gray.600"
-                >
-                  Traderjoe
-                </Radio>
-                <Radio
-                  size="sm"
-                  colorScheme="orange"
-                  name="dexName"
+                  
                   value="standard"
                   borderColor="gray.600"
                 >
@@ -219,32 +169,7 @@ export default function SelectButton({ getChain }) {
                   value="apeswap"
                   borderColor="gray.600"
                 >
-                  Apeswap
-                </Radio>
-                <Radio
-                  size="sm"
-                  name="dexName"
-                  colorScheme="green"
-                  value="apeswap_v2"
-                  borderColor="gray.600"
-                >
-                  Katana
-                </Radio>
-                <Radio
-                  size="sm"
-                  colorScheme="orange"
-                  name="dexName"
-                  value="katana"
-                  borderColor="gray.600"
-                >
-                  Stellaswap
-                </Radio>
-                <Radio
-                  size="sm"
-                  colorScheme="red"
-                  name="dexName"
-                  value="beamswap"
-                  borderColor="gray.600"
+                  
                 >
                   Beamswap
                 </Radio>
